@@ -47,6 +47,8 @@ auto.prop
 .gradle
 build
 
+*.iml
+
 
 
 
